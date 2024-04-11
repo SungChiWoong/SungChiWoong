@@ -1,5 +1,7 @@
-### Hi there 👋
+성치웅
 
+
+AI Developer & Data Analyst
 <!--
 **SungChiWoong/SungChiWoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
