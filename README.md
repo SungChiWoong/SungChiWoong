@@ -1,7 +1,6 @@
-성치웅
+<img src="https://capsule-render.vercel.app/api?type=sqare&color=green&height=10&section=header&text=안녕&fontSize=10" />
 
-
-AI Developer & Data Analyst
+**AI Developer & Data Analyst**
 <!--
 **SungChiWoong/SungChiWoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
