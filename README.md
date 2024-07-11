@@ -1,15 +1,14 @@
 # 성치웅의 포트폴리오
 
-**AI Developer & Data Analyst**
+**Developer**
 
->Python, Java
-
+## 🔗 Links
 ##### :pencil2: email : sung03204@naver.com
 ##### :pencil2: portfolio : https://wave-heart-b62.notion.site/Sung-Chiung-portfolio-fd8153422f794b298e8e55bc58321ced?pvs=4
 ##### :pencil2: github : https://github.com/SungChiWoong
 ##### :pencil2: blog : https://sung0320.tistory.com
 
-# 목차
+## 목차
 1. 활동
    <br>1.1 학원 관리 사이트 제작
    <br>1.2 아파트 매매가 예측 모델 제작
@@ -23,7 +22,7 @@
    <br>2.4 차량 번호판 인식 OCR모델 구현
    <br>2.5 웹 로그 기반 조회수 예측
 
-# 활동
+## 활동
 |기간|이름|설명|
 |------|---|---|
 |2022.04-<br>2022.05|PHP와 데이터베이스 연결 주제 구현|데이터베이스 강의 과제 수행<br>과제:**학원 관리 사이트 제작**|
@@ -33,11 +32,7 @@
 |2024.02-<br>2024.03|웹 로그 기반 조회수 예측 해커톤|Dacon 주관 해커톤<br>과제:**웹 로그 기반 조회수 예측**|
 |2024.06-<br>2024.07|KT AIVLE SCHOOL 빅프로젝트|KT AIVLE SCHOOL 교육의 마무리 프로젝트 대회<br>과제:**경제 교육 웹사이트 제작**|
 
-## 🔗 Links
-##### :pencil2: email : sung03204@naver.com
-##### :pencil2: portfolio : https://wave-heart-b62.notion.site/Sung-Chiung-portfolio-fd8153422f794b298e8e55bc58321ced?pvs=4
-##### :pencil2: github : https://github.com/SungChiWoong
-##### :pencil2: blog : https://sung0320.tistory.com
+
 
 ## 🛠️ Skills
 - **Languages:** Python, HTML, CSS, JavaScript, SQL
@@ -78,6 +73,7 @@
 >- **Model:** SVM, RandomForest, LGBM, XGBoost / Ensemble(Voting, Stacking)
 >- **Tools:** Jupyter Notebook
 >- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Search_Count)
+<br>
 
 ## About
 - ### AI 인턴활동
@@ -86,6 +82,7 @@
 - **OS:** Linux, Window
 - **Model:** Yolo, Deformable-DETR
 - **Tools:** Jupyter Notebook, VScode, Ubuntu
+<br>
 
 - ### 코딩스터디
 - **설명:** 취업을 목적으로 하는 코딩스터디
