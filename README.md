@@ -47,6 +47,7 @@
 >- **Language:** PHP, HTML, CSS
 >- **Tools:** VScode, MySQL
 >- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Student-Management)
+
 <br>
 
 - ### Project 2: 강아지 감정 분석 앱 제작
@@ -57,9 +58,10 @@
 >- **Tools:** Jupyter Notebook, Colab, Android Studio, Figma, Git, MySQL
 >- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Capstone-Design)
 
-<br?
+<br>
+
 - ### Project 3: 아파트 매매가 예측 모델 개발
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/259f19e1-ced0-494f-b06f-b573855bd623)
+- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/416237d4-0071-41c0-8e1d-5974ebacb0c3)
 >- **설명:** 당시 서울 주민 중 많은 사람들이 경기도로 거주지를 옮기는 것에 근거하여, 경기도 권역별 아파트 매매가 예측 모델 개발
 >- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)
 >- **Model:** Neural Prophet, ARIMA, SVM, RandomForest
