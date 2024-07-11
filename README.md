@@ -71,8 +71,8 @@ Welcome to my portfolio! Here you'll find projects that showcase my skills and e
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [Blog](https://johndoe.github.io/blog)
-- [Email](mailto:johndoe@example.com)
+- [Blog](https://sung0320.tistory.com)
+- [Email](sung03204@naver.com)
 
 ## 🛠️ Skills
 - **Languages:** Python, JavaScript, C++
