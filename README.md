@@ -70,14 +70,15 @@
 Welcome to my portfolio! Here you'll find projects that showcase my skills and experience in software development.
 
 ## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [Blog](https://sung0320.tistory.com) https://sung0320.tistory.com
-- [Email](sung03204@naver.com)
+##### :pencil2: email : sung03204@naver.com
+##### :pencil2: portfolio : https://wave-heart-b62.notion.site/Sung-Chiung-portfolio-fd8153422f794b298e8e55bc58321ced?pvs=4
+##### :pencil2: github : https://github.com/SungChiWoong
+##### :pencil2: blog : https://sung0320.tistory.com
 
 ## 🛠️ Skills
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** React, Django, Flask
-- **Tools:** Git, Docker, Kubernetes
+- **Languages:** Python, HTML, CSS, JavaScript, SQL
+- **Frameworks:** Django, MySQL
+- **Tools:** Git, Docker, VScode
 
 ## 📂 Projects
 
