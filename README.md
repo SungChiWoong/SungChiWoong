@@ -63,3 +63,82 @@
 > repository : https://github.com/SungChiWoong/Apartment_Price_Prediction<br>
 
 
+<br><br><br><br>
+
+# John Doe's Portfolio
+
+Welcome to my portfolio! Here you'll find projects that showcase my skills and experience in software development.
+
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/johndoe)
+- [Blog](https://johndoe.github.io/blog)
+- [Email](mailto:johndoe@example.com)
+
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, C++
+- **Frameworks:** React, Django, Flask
+- **Tools:** Git, Docker, Kubernetes
+
+## 📂 Projects
+
+### Project 1: Awesome App
+- **Description:** A web application that does amazing things.
+- **Technologies:** React, Node.js, MongoDB
+- **Link:** [GitHub Repository](https://github.com/johndoe/awesome-app)
+
+### Project 2: Data Analysis Tool
+- **Description:** A tool for analyzing and visualizing data.
+- **Technologies:** Python, Pandas, Matplotlib
+- **Link:** [GitHub Repository](https://github.com/johndoe/data-analysis-tool)
+
+## 📈 Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+
+## 🏆 Achievements
+- Winner of XYZ Hackathon 2023
+- Published 5 articles on Medium
+
+Thank you for visiting my portfolio! Feel free to reach out if you have any questions or collaboration ideas.
+
+
+
+
+
+<br><br><br><br>
+<h1 align="center">John Doe</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://johndoe.github.io/blog"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=blog&logoColor=white"/></a>
+  <a href="mailto:johndoe@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">Welcome to my GitHub portfolio! Here you'll find my projects and accomplishments.</p>
+
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+<h2 align="center">Projects</h2>
+
+### 🚀 [Awesome App](https://github.com/johndoe/awesome-app)
+A web application that does amazing things using React, Node.js, and MongoDB.
+
+### 📊 [Data Analysis Tool](https://github.com/johndoe/data-analysis-tool)
+A tool for analyzing and visualizing data using Python, Pandas, and Matplotlib.
+
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="John's GitHub stats"/>
+</p>
+
+<h2 align="center">Achievements</h2>
+<ul>
+  <li>🏆 Winner of XYZ Hackathon 2023</li>
+  <li>📝 Published 5 articles on Medium</li>
+</ul>
+
+<p align="center">Thank you for visiting! Feel free to connect with me.</p>
+
