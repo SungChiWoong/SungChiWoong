@@ -67,12 +67,14 @@
 >- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Apartment_Price_Prediction)
 
 <br>
+
 - ### Project 4: 웹 로그 기반 조회수 예측
 >- **설명:** Dacon에서 열린 웹 로그 기반 조회수 예측 대회 참가
 >- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas, Matplotlib)
 >- **Model:** SVM, RandomForest, LGBM, XGBoost / Ensemble(Voting, Stacking)
 >- **Tools:** Jupyter Notebook
 >- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Search_Count)
+
 <br>
 
 ## About
@@ -82,6 +84,7 @@
 - **OS:** Linux, Window
 - **Model:** Yolo, Deformable-DETR
 - **Tools:** Jupyter Notebook, VScode, Ubuntu
+
 <br>
 
 - ### 코딩스터디
