@@ -105,40 +105,41 @@ Thank you for visiting my portfolio! Feel free to reach out if you have any ques
 
 
 <br><br><br><br>
-<h1 align="center">John Doe</h1>
+<h1 align="center">홍길동</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://johndoe.github.io/blog"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=blog&logoColor=white"/></a>
-  <a href="mailto:johndoe@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/honggildong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://honggildong.github.io/blog"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=blog&logoColor=white"/></a>
+  <a href="mailto:honggildong@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">Welcome to my GitHub portfolio! Here you'll find my projects and accomplishments.</p>
+<p align="center">제 GitHub 포트폴리오에 오신 것을 환영합니다! 여기서 제 프로젝트와 성과를 확인하실 수 있습니다.</p>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">기술 스택</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-<h2 align="center">Projects</h2>
+<h2 align="center">프로젝트</h2>
 
-### 🚀 [Awesome App](https://github.com/johndoe/awesome-app)
-A web application that does amazing things using React, Node.js, and MongoDB.
+### 🚀 [멋진 앱](https://github.com/honggildong/awesome-app)
+React, Node.js, MongoDB를 사용하여 놀라운 기능을 제공하는 웹 애플리케이션입니다.
 
-### 📊 [Data Analysis Tool](https://github.com/johndoe/data-analysis-tool)
-A tool for analyzing and visualizing data using Python, Pandas, and Matplotlib.
+### 📊 [데이터 분석 도구](https://github.com/honggildong/data-analysis-tool)
+Python, Pandas, Matplotlib을 사용하여 데이터를 분석하고 시각화하는 도구입니다.
 
-<h2 align="center">Stats</h2>
+<h2 align="center">통계</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="John's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=honggildong&show_icons=true&theme=radical" alt="홍길동의 GitHub 통계"/>
 </p>
 
-<h2 align="center">Achievements</h2>
+<h2 align="center">성과</h2>
 <ul>
-  <li>🏆 Winner of XYZ Hackathon 2023</li>
-  <li>📝 Published 5 articles on Medium</li>
+  <li>🏆 XYZ 해커톤 2023 우승</li>
+  <li>📝 Medium에 5개의 기사 게재</li>
 </ul>
 
-<p align="center">Thank you for visiting! Feel free to connect with me.</p>
+<p align="center">방문해 주셔서 감사합니다! 언제든지 연락 주세요.</p>
+
 
