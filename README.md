@@ -48,7 +48,7 @@
 <br>
 
 ### Project 2: 📱 강아지 감정 분석 앱 제작
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/d2f5c68e-a35c-4de8-954f-b01f3044cd6d)
+![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/d2f5c68e-a35c-4de8-954f-b01f3044cd6d)
 >- **설명:** 짧은 강아지 영상 촬영 시, 해당 영상을 분석해 감정의 상태를 알려주는 앱
 >- **Language:** Python, Kotlin, SQL
 >- **Model:** Yolo, LSTM-FCN, R-CNN, SVM, RandomForest
@@ -58,7 +58,7 @@
 <br>
 
 ### Project 3: 🏦 아파트 매매가 예측 모델 개발
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/416237d4-0071-41c0-8e1d-5974ebacb0c3)
+![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/416237d4-0071-41c0-8e1d-5974ebacb0c3)
 >- **설명:** 당시 서울 주민 중 많은 사람들이 경기도로 거주지를 옮기는 것에 근거하여, 경기도 권역별 아파트 매매가 예측 모델 개발
 >- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)
 >- **Model:** Neural Prophet, ARIMA, SVM, RandomForest
