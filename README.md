@@ -113,9 +113,7 @@ Thank you for visiting my portfolio! Feel free to reach out if you have any ques
 
 
 
-# 홍길동의 포트폴리오
-
-안녕하세요! 제 포트폴리오에 오신 것을 환영합니다. 여기서 저의 소프트웨어 개발 능력과 경험을 보여주는 프로젝트들을 확인하실 수 있습니다.
+# 성치웅의 포트폴리오
 
 ## 🔗 Links
 ##### :pencil2: email : sung03204@naver.com
@@ -163,19 +161,23 @@ Thank you for visiting my portfolio! Feel free to reach out if you have any ques
 - **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Search_Count)
 
 ## About
-- ### 웹 로그 기반 조회수 예측
+- ### AI 인턴활동
 - ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
-- **설명:** Dacon에서 열린 웹 로그 기반 조회수 예측 대회 참가
-- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas, Matplotlib)
-- **Model:** SVM, RandomForest, LGBM, XGBoost / Ensemble(Voting, Stacking)
-- **Tools:** Jupyter Notebook
-- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Search_Count)
+- **설명:** 방학 기간을 이용해 회사 인턴활동 / OCR 성능 증가를 위해 탐색 및 연구
+- **Language:** Python
+- **OS:** Linux, Window
+- **Model:** Yolo, Deformable-DETR
+- **Tools:** Jupyter Notebook, VScode, Ubuntu
 
-
-
+- ### 코딩스터디
+- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
+- **설명:** 취업을 목적으로 하는 코딩스터디
+- **Language:** Python, C++
+- **Tools:** VScode
+- **Link:** [GitHub 저장소](https://github.com/Vion44/Study-Aivle-)
 
 ## 📈 통계
-![홍길동의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=honggildong&show_icons=true&theme=radical)
+![성치웅의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=honggildong&show_icons=true&theme=radical)
 
 ## 🏆 성과
 - XYZ 해커톤 2023 우승
