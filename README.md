@@ -47,7 +47,7 @@
 
 <br>
 
-- ### Project 2: 📱 강아지 감정 분석 앱 제작
+### Project 2: 📱 강아지 감정 분석 앱 제작
 - ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/d2f5c68e-a35c-4de8-954f-b01f3044cd6d)
 >- **설명:** 짧은 강아지 영상 촬영 시, 해당 영상을 분석해 감정의 상태를 알려주는 앱
 >- **Language:** Python, Kotlin, SQL
@@ -57,7 +57,7 @@
 
 <br>
 
-- ### Project 3: 🏦 아파트 매매가 예측 모델 개발
+### Project 3: 🏦 아파트 매매가 예측 모델 개발
 - ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/416237d4-0071-41c0-8e1d-5974ebacb0c3)
 >- **설명:** 당시 서울 주민 중 많은 사람들이 경기도로 거주지를 옮기는 것에 근거하여, 경기도 권역별 아파트 매매가 예측 모델 개발
 >- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)
@@ -67,7 +67,7 @@
 
 <br>
 
-- ### Project 4: 📈 웹 로그 기반 조회수 예측
+### Project 4: 📈 웹 로그 기반 조회수 예측
 >- **설명:** Dacon에서 열린 웹 로그 기반 조회수 예측 대회 참가
 >- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas, Matplotlib)
 >- **Model:** SVM, RandomForest, LGBM, XGBoost / Ensemble(Voting, Stacking)
@@ -76,12 +76,12 @@
 
 <br>
 
-- ### Project 5: 🎓 경제 교육 웹사이트 개발
+### Project 5: 🎓 경제 교육 웹사이트 개발
 >- **설명:** 경제에 대한 지식이 부족한 학생들을 위한 교육 플랫폼
->- **Language:** Python
->- **Frameworks:** Django, MySQL
+>- **Language:** Python, JavaScripts
+>- **Frameworks:** Django, MySQL, HTML, CSS
 >- **Model:** RAG
->- **Tools:** Jupyter Notebook, VScode, Figma, Git
+>- **Tools:** Jupyter Notebook, Colab, VScode, Figma, Git
 >- **Link:** [GitHub 저장소](https://github.com/Economia-aivle/server-economia)
 
 <br>
@@ -96,7 +96,7 @@
 
 <br>
 
-- ### 📚 코딩스터디
+### 📚 코딩스터디
 >- **설명:** 취업을 목적으로 하는 코딩스터디
 >- **Language:** Python, C++
 >- **Tools:** VScode
