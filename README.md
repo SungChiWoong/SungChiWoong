@@ -40,15 +40,26 @@
 
 > 데이터베이스를 연동한 PHP사이트를 제작<br>
 > 학교, 혹은 학원의 학생들, 선생님들 정보를 관리하는 사이트<br>
-> 사용 스택 : MySQL, PHP, HTML, CSS<br>
+> Language : PHP, HTML, CSS<br>
+> Skill : VScode, MySQL
 > repository : https://github.com/SungChiWoong/Student-Management<br>
 
 ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
 ### 2. 아파트 매매가 예측 모델
 > AI(ML, DL)를 이용한 예측 모델 만들기<br>
 > 경기도 권역별 매매가 예측 모델 개발<br>
-> 사용 스택 : Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)<br>
-> 사용 모델 : Neural Prophet, SVM, RandomForest, 
-> repository : https://github.com/SungChiWoong/Student-Management<br>
+> Language : Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)<br>
+> Skill : Jupyter Notebook, Colab, VScode<br>
+> 사용 모델 : Neural Prophet, ARIMA, SVM, RandomForest<br>
+> repository : https://github.com/SungChiWoong/Apartment_Price_Prediction<br>
+
+![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
+### 2. 아파트 매매가 예측 모델
+> AI(ML, DL)를 이용한 예측 모델 만들기<br>
+> 경기도 권역별 매매가 예측 모델 개발<br>
+> Language : Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)<br>
+> Skill : Jupyter Notebook, Colab, VScode<br>
+> 사용 모델 : Neural Prophet, ARIMA, SVM, RandomForest<br>
+> repository : https://github.com/SungChiWoong/Apartment_Price_Prediction<br>
 
 
