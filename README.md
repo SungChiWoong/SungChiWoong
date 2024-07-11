@@ -48,39 +48,39 @@
 
 ### Project 1: 학원 관리 사이트
 ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
-- **설명:** 학교, 혹은 학원의 학생들, 선생님들 정보를 관리하는 사이트
-- **Language:** PHP, HTML, CSS
-- **Tools:** VScode, MySQL
-- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Student-Management)
+>- **설명:** 학교, 혹은 학원의 학생들, 선생님들 정보를 관리하는 사이트
+>- **Language:** PHP, HTML, CSS
+>- **Tools:** VScode, MySQL
+>- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Student-Management)
+<br>
 
 - ### Project 2: 강아지 감정 분석 앱 제작
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
-- **설명:** 짧은 강아지 영상 촬영 시, 해당 영상을 분석해 감정의 상태를 알려주는 앱
-- **Language:** Python, Kotlin, SQL
-- **Model:** Yolo, LSTM-FCN, R-CNN, SVM, RandomForest
-- **Tools:** Jupyter Notebook, Colab, Android Studio, Figma, Git, MySQL
-- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Capstone-Design)
+- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/d2f5c68e-a35c-4de8-954f-b01f3044cd6d)
+>- **설명:** 짧은 강아지 영상 촬영 시, 해당 영상을 분석해 감정의 상태를 알려주는 앱
+>- **Language:** Python, Kotlin, SQL
+>- **Model:** Yolo, LSTM-FCN, R-CNN, SVM, RandomForest
+>- **Tools:** Jupyter Notebook, Colab, Android Studio, Figma, Git, MySQL
+>- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Capstone-Design)
 
-
+<br?
 - ### Project 3: 아파트 매매가 예측 모델 개발
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
-- **설명:** 당시 서울 주민 중 많은 사람들이 경기도로 거주지를 옮기는 것에 근거하여, 경기도 권역별 아파트 매매가 예측 모델 개발
-- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)
-- **Model:** Neural Prophet, ARIMA, SVM, RandomForest
-- **Tools:** Jupyter Notebook, Colab, VScode
-- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Apartment_Price_Prediction)
+- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/259f19e1-ced0-494f-b06f-b573855bd623)
+>- **설명:** 당시 서울 주민 중 많은 사람들이 경기도로 거주지를 옮기는 것에 근거하여, 경기도 권역별 아파트 매매가 예측 모델 개발
+>- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)
+>- **Model:** Neural Prophet, ARIMA, SVM, RandomForest
+>- **Tools:** Jupyter Notebook, Colab, VScode
+>- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Apartment_Price_Prediction)
 
+<br>
 - ### Project 4: 웹 로그 기반 조회수 예측
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
-- **설명:** Dacon에서 열린 웹 로그 기반 조회수 예측 대회 참가
-- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas, Matplotlib)
-- **Model:** SVM, RandomForest, LGBM, XGBoost / Ensemble(Voting, Stacking)
-- **Tools:** Jupyter Notebook
-- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Search_Count)
+>- **설명:** Dacon에서 열린 웹 로그 기반 조회수 예측 대회 참가
+>- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas, Matplotlib)
+>- **Model:** SVM, RandomForest, LGBM, XGBoost / Ensemble(Voting, Stacking)
+>- **Tools:** Jupyter Notebook
+>- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Search_Count)
 
 ## About
 - ### AI 인턴활동
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
 - **설명:** 방학 기간을 이용해 회사 인턴활동 / OCR 성능 증가를 위해 탐색 및 연구
 - **Language:** Python
 - **OS:** Linux, Window
@@ -88,7 +88,6 @@
 - **Tools:** Jupyter Notebook, VScode, Ubuntu
 
 - ### 코딩스터디
-- ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/ecb506c1-4081-4caf-9c77-7fafd1cd0dda)
 - **설명:** 취업을 목적으로 하는 코딩스터디
 - **Language:** Python, C++
 - **Tools:** VScode
