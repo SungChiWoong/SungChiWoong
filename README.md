@@ -20,8 +20,8 @@
 |기간|이름|설명|
 |------|---|---|
 |2022.04-<br>2022.05|PHP와 데이터베이스 연결 주제 구현|데이터베이스 강의 과제 수행<br>과제:[**학원 관리 사이트 제작**](#project-1--학원-관리-사이트)|
-|2022.06-<br>2022.08|데이터 청년 캠퍼스|ML/AI에 관한 기초 지식 학습<br>대우건설의 과제를 받아 해결 방안 모색<br>과제:[**Neural Prophet기반 아파트 매매가 예측 모델**](#project-3--아파트-매매가-예측-모델-개발)|
-|2022.09-<br>2023.05|캡스톤디자인|컴퓨터공학부 졸업작품 주제<br>과제:[**강아지 감정 분석 앱 제작**](#project-2--강아지-감정-분석-앱-제작)|
+|2022.06-<br>2022.08|데이터 청년 캠퍼스|ML/AI에 관한 기초 지식 학습<br>대우건설의 과제를 받아 해결 방안 모색<br>과제:[**Neural Prophet기반 아파트 매매가 예측 모델**](#project-2--아파트-매매가-예측-모델-개발)|
+|2022.09-<br>2023.05|캡스톤디자인|컴퓨터공학부 졸업작품 주제<br>과제:[**강아지 감정 분석 앱 제작**](#project-3--강아지-감정-분석-앱-제작)|
 |2023.06-<br>2023.08|글로벌브릿지 인턴|방학기간 중 진행한 Vision DL 인턴활동<br>과제:[**OCR 모델 구현**](#-ai-인턴활동)|
 |2024.02-<br>2024.03|웹 로그 기반 조회수 예측 해커톤|Dacon 주관 해커톤<br>과제:[**웹 로그 기반 조회수 예측**](#project-4--웹-로그-기반-조회수-예측)|
 |2024.06-<br>2024.07|KT AIVLE SCHOOL 빅프로젝트|KT AIVLE SCHOOL 교육의 마무리 프로젝트 대회<br>과제:[**경제 교육 웹 개발**](#project-5--경재-교육-웹사이트-개발)|
@@ -43,23 +43,23 @@
 
 <br>
 
-### Project 2: 📱 강아지 감정 분석 앱 제작
-![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/d2f5c68e-a35c-4de8-954f-b01f3044cd6d)
->- **설명:** 짧은 강아지 영상 촬영 시, 해당 영상을 분석해 감정의 상태를 알려주는 앱
->- **Language:** Python, Kotlin, SQL
->- **Model:** Yolo, LSTM-FCN, R-CNN, SVM, RandomForest
->- **Tools:** Jupyter Notebook, Colab, Android Studio, Figma, Git, MySQL
->- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Capstone-Design)
-
-<br>
-
-### Project 3: 🏦 아파트 매매가 예측 모델 개발
+### Project 2: 🏦 아파트 매매가 예측 모델 개발
 ![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/416237d4-0071-41c0-8e1d-5974ebacb0c3)
 >- **설명:** 당시 서울 주민 중 많은 사람들이 경기도로 거주지를 옮기는 것에 근거하여, 경기도 권역별 아파트 매매가 예측 모델 개발
 >- **Language:** Python(Keras, Pytorch, Matplotlib, Numpy, Pandas)
 >- **Model:** Neural Prophet, ARIMA, SVM, RandomForest
 >- **Tools:** Jupyter Notebook, Colab, VScode
 >- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Apartment_Price_Prediction)
+
+<br>
+
+### Project 3: 📱 강아지 감정 분석 앱 제작
+![image](https://github.com/SungChiWoong/SungChiWoong/assets/123548388/d2f5c68e-a35c-4de8-954f-b01f3044cd6d)
+>- **설명:** 짧은 강아지 영상 촬영 시, 해당 영상을 분석해 감정의 상태를 알려주는 앱
+>- **Language:** Python, Kotlin, SQL
+>- **Model:** Yolo, LSTM-FCN, R-CNN, SVM, RandomForest
+>- **Tools:** Jupyter Notebook, Colab, Android Studio, Figma, Git, MySQL
+>- **Link:** [GitHub 저장소](https://github.com/SungChiWoong/Capstone-Design)
 
 <br>
 
